@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @arcturus125
-- 👀 I’m interested in Procedural Generation and i am currently working on creating a library to make game development for Unity easier and faster.
-- 🌱 I’m currently learning at the University of Central Lancashire in preston, currently in year 3 and working on my final year project
-- 📫 if you wish to know more or would like to contact me. please see my portfolio: https://arcturus125.wordpress.com/
+👋 Hello there, I’m @arcturus125
+- My passion is for Procedural Generation and Engine Building.
+- I graduated from UCLAN with a First-Class Honours in BSc (Hons) Computer Games Development in June 2022.
+- Since then i have worked as a Software Engineer at Light and Wonder
+- If you wish to know more or would like to contact me. please see my portfolio: https://arcturus125.wordpress.com/
 
 <!---
 arcturus125/arcturus125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
